@@ -172,7 +172,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener{
         }
 
         g.setColor(Color.orange);
-        g.drawString("Brick-Breaker - Tom Barlow - 2019", 10, 20);
+        g.drawString("Brick-Breaker - 2019", 10, 20);
         g.drawString("Score:"+score, 300, 20);
         g.drawString("Lives:"+lives, 500, 20);
         
