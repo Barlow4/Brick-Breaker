@@ -42,7 +42,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener{
     private int playerDirection = 0;
     private int speedincr=0;
     
-    private int ballposX = (int)(Math.random()*600 + 50);
+    private int ballposX = (int)(Math.random()*600 + 100);
     private int ballposY = 350;
     private int ballXdir = -3;
     private int ballYdir = -3;
